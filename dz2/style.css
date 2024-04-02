@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+
+
+
+section {
+  margin-bottom: 20px;
+}
+
+.go-img {
+  display: block;
+  max-width: 350px;
+
+  
+  right: 45px;
+  top: 258px;
+
+  margin-top: 20px;
+  margin-bottom: 10px;
+
+
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: #0073b7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Стили для блоков */
+
+#о-языке {
+  background-color: #ece5e5;
+  padding: 20px;
+}
+
+#что-нужно-знать {
+  background-color: #dba622;
+  padding: 20px;
+}
+
+#ресурсы {
+  background-color: #bdb1b1;
+  padding: 20px;
+
+}
+
+
